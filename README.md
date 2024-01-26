@@ -6,4 +6,4 @@ Watch my [Demo Video!](https://www.youtube.com/playlist?app=desktop&list=PL6FWNw
 
 ## Project Source Codes:
 [Hangman Game](https://github.com/NatalieHana/stanCode_Python_Projects/blob/main/stanCode_Projects/Hangman_game/hangman.py)\
-_python semantics & syntax
+_ python semantics & syntax
