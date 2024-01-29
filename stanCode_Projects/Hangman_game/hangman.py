@@ -1,6 +1,6 @@
 """
 File: hangman.py
-Name: Jane
+Name: Natalie
 -----------------------------
 This program plays hangman game.
 Users see a dashed word, trying to
