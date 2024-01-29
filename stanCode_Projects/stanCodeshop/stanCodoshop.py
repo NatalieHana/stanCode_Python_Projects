@@ -1,6 +1,6 @@
 """
 File: stanCodoshop.py
-Name: 
+Name: Natalie
 ----------------------------------------------
 SC101_Assignment3 Adapted from Nick Parlante's
 Ghost assignment by Jerry Liao.
