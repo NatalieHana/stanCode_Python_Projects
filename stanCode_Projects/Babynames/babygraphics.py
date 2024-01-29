@@ -1,6 +1,6 @@
 """
 File: babygraphics.py
-Name: Jane
+Name: Natalie
 --------------------------------
 SC101 Baby Names Project
 Adapted from Nick Parlante's Baby Names assignment by
