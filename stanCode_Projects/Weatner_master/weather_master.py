@@ -1,6 +1,6 @@
 """
 File: weather_master.py
-Name:Jane
+Name: Natalie
 -----------------------
 This program should implement a console program
 that asks weather data from user to compute the
